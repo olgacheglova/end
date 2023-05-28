@@ -1,0 +1,22 @@
+body {
+    font-family:sans-serif;
+    background-color: rgb(119, 0, 255);
+    font-style: oblique;
+    color: white;
+    }
+.link-header{
+text-decoration:none;
+text-align: center;
+color: yellow;
+border: 5px solid rgb(255, 167, 226);
+padding: 2px 5px 2px 5px;
+}
+.link-nav{
+    text-decoration: none;
+    text-align:right;
+    color: yellow;
+    border: 5px solid rgb(255, 151, 151);
+}
+header{
+    margin-bottom: 20px;
+}
